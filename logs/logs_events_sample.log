@@ -1,0 +1,1209 @@
+2026-09-01T00:08:59Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-01T00:20:18Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-01T00:47:04Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-01T01:04:21Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-01T01:16:46Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-01T02:34:23Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-01T02:53:22Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-01T02:57:32Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-01T03:41:06Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-01T03:46:52Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-01T04:33:00Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-01T04:49:20Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-01T05:31:28Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-01T06:09:28Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-01T06:35:35Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-01T07:49:39Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-01T08:13:51Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-01T11:04:42Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-01T11:42:25Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-01T12:33:48Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-01T13:19:29Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-01T13:41:15Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-01T13:56:08Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-01T14:49:40Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-01T15:00:20Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-01T16:27:36Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-01T16:31:27Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-01T16:33:45Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-01T16:51:42Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-01T17:29:16Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-01T17:35:19Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-01T17:35:43Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-01T17:53:50Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-01T18:18:42Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-01T20:34:29Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+not-a-timestamp | ERROR | orders-api | ORDER_REJECTED | timestamp is invalid
+2026-09-01T20:51:00Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-01T20:57:56Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-01T21:46:04Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-01T21:52:58Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-01T22:04:24Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-01T22:15:47Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-01T22:29:46Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-01T22:46:15Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-01T22:48:13Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-01T23:51:20Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-02T00:20:35Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-02T00:24:04Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-02T02:28:06Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-02T03:19:20Z | DEBUG | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-02T03:39:56Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-02T05:07:24Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-02T05:56:44Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-02T07:56:24Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-02T08:18:34Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-02T08:40:43Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-02T08:57:59Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-02T09:23:04Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-02T09:35:41Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-02T10:39:59Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-02T10:58:25Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-02T11:04:36Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-02T11:53:42Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-02T12:06:35Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-02T12:09:24Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-02T13:06:27Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-02T13:14:38Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-02T13:34:31Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-02T14:07:46Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-02T14:09:43Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-02T15:01:57Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-02T15:23:38Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-02T15:24:20Z | WARN | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-02T16:05:13Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-02T16:23:01Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-02T16:32:33Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-02T17:21:26Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-02T17:38:52Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-02T18:32:21Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-02T19:33:25Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-02T19:36:11Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-02T20:00:24Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-02T21:11:43Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-02T21:16:29Z | DEBUG | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-02T21:19:25Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-02T21:51:17Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-02T22:30:57Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-02T22:50:08Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-03T00:17:32Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-03T01:25:25Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-03T01:43:34Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-03T01:51:22Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-03T03:30:36Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-03T03:54:37Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-03T04:18:45Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-03T04:24:36Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-03T04:41:51Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-03T06:28:24Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-03T06:56:33Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-03T08:07:34Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-03T08:08:11Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-03T08:50:39Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-03T09:03:35Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-03T09:51:32Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-03T10:12:20Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-03T11:14:43Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-03T11:19:56Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-03T12:52:50Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-03T13:04:02Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-03T13:11:38Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-03T13:41:53Z | DEBUG | orders-api | DB_RETRY | Database operation will be retried
+2026-09-03T14:11:04Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-03T14:20:02Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-03T14:33:50Z | DEBUG | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-03T14:41:33Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-03T14:48:07Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-03T14:50:17Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-03T16:02:55Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-03T16:28:30Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-03T18:38:35Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-03T18:52:39Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-03T18:59:17Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-03T19:38:00Z | WARN | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-03T19:58:38Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-03T20:27:32Z | DEBUG | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-03T20:43:54Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-03T22:28:03Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-03T22:28:06Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-03T23:00:43Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-03T23:02:57Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-03T23:29:07Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-03T23:29:31Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-03T23:44:13Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-03T23:52:31Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-04T00:20:29Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-04T00:31:35Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-04T00:35:07Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-04T00:53:04Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-04T01:55:02Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-04T02:52:04Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-04T02:55:36Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-04T03:00:14Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-04T03:26:06Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-04T03:30:59Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-04T03:53:29Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-04T04:13:16Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-04T04:37:08Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-04T05:42:13Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-04T07:40:37Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-04T08:22:00Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-04T09:07:04Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-04T09:49:18Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-04T09:55:32Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-04T10:02:13Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-04T10:53:23Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-04T11:43:10Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-04T12:12:22Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-04T12:47:12Z | DEBUG | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-04T12:52:48Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-04T13:59:42Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-02T08:12:00Z | NOTICE | gateway | HTTP_502 | unsupported level
+2026-09-04T14:23:11Z | DEBUG | gateway | HTTP_502 | Upstream service returned 502
+2026-09-04T14:31:00Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-04T14:32:22Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-04T14:50:32Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-04T15:11:34Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-04T15:35:53Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-04T16:17:03Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-04T17:01:29Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-04T17:59:47Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-04T18:48:46Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-04T20:04:20Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-04T21:40:33Z | DEBUG | gateway | HTTP_502 | Upstream service returned 502
+2026-09-04T22:02:20Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-04T22:44:37Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-04T22:48:42Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-04T23:16:26Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-04T23:44:46Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-04T23:47:09Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-04T23:50:58Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-05T00:51:31Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-05T00:52:43Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-05T00:52:55Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-05T01:14:29Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-05T02:13:20Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-05T04:25:25Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-05T04:55:59Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-05T05:04:09Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T05:11:42Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T05:45:40Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-05T05:58:52Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-05T06:31:05Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-05T07:02:30Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-05T07:37:37Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-05T07:38:12Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-05T07:38:38Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-05T07:58:14Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-05T08:07:53Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-05T08:14:45Z | DEBUG | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T09:23:24Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-05T09:39:19Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-05T09:48:23Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-05T09:52:29Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T10:27:27Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-05T10:33:50Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-05T10:49:45Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-05T10:53:27Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T11:04:24Z | DEBUG | gateway | HTTP_502 | Upstream service returned 502
+2026-09-05T11:15:38Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-05T11:39:45Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-05T12:48:49Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-05T13:26:18Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T13:46:15Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-05T15:17:05Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-05T16:18:57Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-05T16:49:52Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T17:10:12Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T17:27:31Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-05T18:03:59Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-05T18:16:56Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-05T18:24:36Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T18:32:42Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-05T19:04:56Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-05T19:17:02Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-05T19:27:16Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-05T19:45:07Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-05T20:10:53Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-05T20:32:07Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-05T21:12:18Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-05T21:19:29Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-05T21:52:09Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-05T22:56:06Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T22:57:10Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-05T23:00:18Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-05T23:37:39Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-05T23:57:02Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-06T00:55:45Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-06T04:03:03Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-06T05:23:20Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-06T05:26:52Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-06T06:05:00Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-06T06:14:05Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-06T07:16:02Z | DEBUG | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-06T09:15:14Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-06T09:16:38Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-06T09:35:01Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-06T09:59:58Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-06T10:26:28Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-06T11:24:11Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-06T11:25:39Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-06T12:02:43Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-06T12:03:57Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-06T12:22:53Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-06T12:46:23Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-06T12:47:25Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-06T13:13:07Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-06T13:40:14Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-06T13:56:58Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-06T14:32:03Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-06T14:39:36Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-06T15:09:52Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-06T15:21:16Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-06T16:05:40Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-06T18:11:27Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-06T18:32:19Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-06T18:44:30Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-06T18:45:18Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-06T22:15:00Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-06T22:34:45Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-06T23:23:44Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-07T00:53:26Z | DEBUG | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-07T01:32:11Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-07T01:55:20Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-07T04:34:35Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-07T04:35:34Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-07T05:13:03Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-07T05:15:04Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-07T05:58:00Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-07T06:23:21Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-07T07:25:48Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-03T09:00:00Z | INFO | auth-api | | missing event code
+2026-09-07T07:28:20Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-07T09:38:54Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-07T10:17:02Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-07T10:56:53Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-07T12:20:10Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-07T12:21:48Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-07T12:29:38Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-07T12:43:20Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-07T12:55:23Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-07T13:51:45Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-07T14:59:05Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-07T15:12:21Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-07T15:41:55Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-07T16:09:29Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-07T17:07:34Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-07T21:11:02Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-07T21:43:10Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-07T22:21:43Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-08T00:12:44Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-08T00:30:24Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-08T01:07:48Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-08T02:25:35Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-08T02:36:59Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-08T03:13:30Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-08T03:57:21Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-08T04:19:52Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-08T04:37:28Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-08T05:40:10Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-08T06:07:48Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-08T06:33:40Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-08T06:53:47Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-08T07:22:30Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-08T07:37:31Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-08T08:25:47Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-08T08:54:44Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-08T09:41:23Z | DEBUG | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-08T09:57:48Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-08T10:36:50Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-08T10:42:30Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-08T12:05:39Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-08T13:16:14Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-08T13:26:08Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-08T13:36:44Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-08T14:00:28Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-08T15:24:54Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-08T15:27:43Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-08T15:34:40Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-08T17:35:58Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-08T18:17:40Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-08T18:54:47Z | WARN | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-08T18:59:33Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-08T19:06:19Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-08T19:10:48Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-08T19:32:35Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-08T19:40:53Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-08T19:49:31Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-08T19:52:23Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-08T19:53:23Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-08T20:34:36Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-08T21:22:52Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-08T21:39:44Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-08T23:33:21Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-08T23:44:37Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-09T00:08:06Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-09T03:12:59Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-09T03:13:34Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-09T03:37:59Z | WARN | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-09T03:53:37Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-09T03:56:21Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-09T04:10:24Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-09T05:14:47Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-09T05:53:19Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-09T06:32:16Z | WARN | gateway | HTTP_502 | Upstream service returned 502
+2026-09-09T07:09:35Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-09T07:59:33Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-09T08:16:32Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-09T08:49:48Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-09T08:49:58Z | DEBUG | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-09T08:51:13Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-09T08:52:50Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-09T08:55:32Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-09T09:02:59Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-09T09:58:46Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-09T10:09:49Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-09T10:23:56Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-09T10:30:30Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-09T10:42:14Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-09T11:17:02Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-09T11:51:58Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-09T11:56:49Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-09T12:10:32Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-09T13:08:45Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-09T13:26:28Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-09T14:47:30Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-09T14:53:32Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-09T15:00:03Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-09T16:12:39Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-09T16:35:55Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-09T17:04:28Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-09T18:21:21Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-09T19:22:56Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-09T19:30:36Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-09T19:58:07Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-09T20:36:32Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-09T21:38:13Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-09T21:47:02Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-09T21:56:36Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-09T23:07:19Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-10T00:38:37Z | DEBUG | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-10T01:01:05Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-10T02:07:16Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-10T02:12:53Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-10T03:20:59Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-10T03:28:04Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-10T03:49:51Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-10T04:50:04Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-10T05:25:12Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-10T05:54:02Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-10T05:57:58Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-10T06:04:06Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-10T07:14:07Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-10T07:22:33Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-10T07:33:07Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-10T07:53:48Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-10T08:29:14Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-10T08:37:44Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-10T08:42:42Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-10T09:04:21Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-10T10:17:32Z | WARN | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-04 09:00:00 | WARN | inventory-api | STOCK_LOW | timestamp lacks ISO 8601
+2026-09-10T11:02:41Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-10T12:16:20Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-10T13:19:02Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-10T13:45:47Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-10T14:15:23Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-10T14:30:03Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-10T15:19:12Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-10T15:22:35Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-10T15:30:29Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-10T15:58:56Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-10T16:08:31Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-10T16:42:07Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-10T17:03:36Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-10T17:41:18Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-10T18:24:06Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-10T18:34:55Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-10T19:30:56Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-10T19:57:37Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-10T22:29:50Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-10T23:17:08Z | WARN | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-10T23:31:46Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-11T00:01:29Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-11T00:26:54Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-11T01:14:27Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-11T02:12:13Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-11T02:40:23Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-11T03:08:22Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-11T03:28:26Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-11T04:12:03Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-11T04:28:17Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-11T06:43:35Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-11T07:16:31Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-11T07:34:32Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-11T08:14:07Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-11T08:40:42Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-11T09:52:27Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-11T10:18:13Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-11T10:19:46Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-11T10:54:02Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-11T11:28:12Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-11T12:28:53Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-11T12:43:01Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-11T12:48:59Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-11T12:49:46Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-11T12:57:52Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-11T13:27:05Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-11T13:31:20Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-11T13:47:32Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-11T14:55:16Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-11T16:40:09Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-11T16:52:39Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-11T17:05:44Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-11T19:16:57Z | DEBUG | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-11T19:41:59Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-11T19:44:10Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-11T20:10:45Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-11T20:27:17Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-11T21:23:32Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-11T21:35:35Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-11T22:28:05Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-11T22:53:46Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-11T23:26:05Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-11T23:46:08Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-12T00:16:47Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-12T00:45:12Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-12T01:03:58Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-12T01:12:55Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-12T01:19:13Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-12T01:35:39Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-12T01:59:50Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-12T02:01:20Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-12T02:10:03Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-12T02:19:52Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-12T02:21:57Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-12T02:32:53Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-12T02:39:16Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-12T03:22:20Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-12T05:03:18Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-12T05:43:19Z | WARN | gateway | HTTP_502 | Upstream service returned 502
+2026-09-12T07:04:37Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-12T07:45:41Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-12T07:48:18Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-12T08:13:08Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-12T09:33:06Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-12T10:08:08Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-12T10:57:45Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-12T11:03:49Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-12T11:33:01Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-12T11:53:04Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-12T11:56:54Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-12T12:49:08Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-12T13:23:56Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-12T13:54:43Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-12T15:12:48Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-12T15:31:11Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-12T15:50:42Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-12T16:43:37Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-12T16:57:20Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-12T17:11:41Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-12T17:18:00Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-12T17:32:11Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-12T19:13:48Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-12T20:36:35Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-12T22:15:02Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-12T23:39:38Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-13T00:04:08Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-13T00:08:01Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-13T00:50:17Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-13T01:58:00Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-13T02:05:47Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-13T02:23:39Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-13T02:36:57Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-13T02:38:08Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-13T03:04:36Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-13T04:24:27Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-13T05:41:03Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-13T08:18:26Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-13T08:31:29Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-13T08:41:06Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-13T08:50:25Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-13T09:40:28Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-13T10:15:46Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-13T10:51:30Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-13T11:13:55Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-13T11:26:26Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-13T11:32:34Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-13T12:02:27Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-13T12:35:07Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-13T12:58:47Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-13T13:11:32Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-13T13:55:20Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-13T14:50:16Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-13T15:23:28Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-13T16:06:32Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-13T18:14:02Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-13T19:38:03Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-13T20:57:58Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-13T21:27:57Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-13T21:46:59Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-05T11:10:00Z | ERROR | payment-worker | PAYMENT_TIMEOUT
+2026-09-13T21:52:32Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-14T00:03:10Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-14T00:39:09Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-14T01:27:45Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-14T02:24:27Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-14T03:08:41Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-14T04:40:20Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-14T05:11:20Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-14T05:21:31Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-14T05:33:55Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-14T05:39:25Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-14T05:49:24Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-14T06:47:14Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-14T06:54:56Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-14T06:55:01Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-14T08:27:21Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-14T10:02:44Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-14T10:04:29Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-14T11:15:44Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-14T11:29:19Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-14T13:14:11Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-14T13:58:10Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-14T14:08:31Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-14T15:11:45Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-14T15:34:58Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-14T15:37:06Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-14T15:43:19Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-14T15:54:49Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-14T16:07:21Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-14T16:31:10Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-14T16:59:42Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-14T17:08:48Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-14T17:13:03Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-14T18:21:47Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-14T20:11:50Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-14T20:53:05Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-14T22:07:41Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-14T22:29:42Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-14T22:40:55Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-14T22:55:54Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-14T23:13:21Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-14T23:32:35Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-15T00:06:11Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-15T00:30:28Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-15T01:06:48Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-15T02:36:35Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-15T03:20:25Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-15T03:46:37Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-15T04:28:14Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-15T04:43:43Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-15T05:09:19Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-15T05:31:11Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-15T05:41:53Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-15T06:12:48Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-15T07:19:07Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-15T07:45:48Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-15T08:58:02Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-15T09:35:05Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-15T10:17:22Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-15T10:32:17Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-15T11:48:25Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-15T12:01:41Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-15T13:59:39Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-15T14:10:45Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-15T14:16:59Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-15T15:03:38Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-15T15:38:07Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-15T15:58:30Z | WARN | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-15T16:13:59Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-15T16:14:36Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-15T18:21:08Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-15T18:28:52Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-15T19:08:10Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-15T19:28:52Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-15T20:14:22Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-15T20:33:48Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-15T20:42:52Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-15T21:21:47Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-15T22:15:24Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-15T22:20:36Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-15T22:36:17Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-15T22:51:01Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-16T00:21:20Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-16T00:41:56Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-16T01:10:37Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-16T01:16:29Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-16T02:10:39Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-16T02:39:04Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-16T02:43:33Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-16T02:52:52Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-16T03:15:36Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-16T03:38:17Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-16T05:19:38Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-16T05:38:41Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-16T07:43:28Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-16T08:06:53Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-16T08:24:04Z | WARN | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-16T08:29:01Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-16T09:10:02Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-16T09:33:00Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-16T10:11:46Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-16T10:17:34Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-16T10:38:20Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-16T12:22:31Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-16T12:53:55Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-16T13:09:46Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-16T13:15:20Z | DEBUG | orders-api | DB_RETRY | Database operation will be retried
+2026-09-16T13:39:29Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-16T15:29:20Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-16T17:09:02Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-16T17:34:44Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-16T18:12:31Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-16T19:06:04Z | WARN | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-16T19:33:57Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-16T20:07:55Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-16T20:25:51Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-16T21:32:39Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-16T22:14:02Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-16T22:24:08Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-16T22:49:59Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-17T00:09:09Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-17T00:58:30Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-17T01:09:33Z | WARN | gateway | HTTP_502 | Upstream service returned 502
+2026-09-17T01:13:49Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-17T01:44:04Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-17T01:57:00Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-17T02:01:32Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-17T03:06:01Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-17T04:15:52Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-17T05:13:03Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-17T06:31:18Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-17T07:28:37Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-17T08:11:31Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-17T08:21:33Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-17T08:31:09Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-17T10:17:05Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-17T10:30:44Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-17T12:25:24Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-17T12:35:49Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-06T11:10:00Z | ERROR | payment-worker | PAYMENT_TIMEOUT | message has | extra delimiter
+2026-09-17T12:40:37Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-17T12:45:32Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-17T13:10:01Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-17T14:17:58Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-17T15:24:35Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-17T15:52:10Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-17T16:07:53Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-17T16:42:10Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-17T16:52:58Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-17T17:06:54Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-17T17:39:58Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-17T18:49:33Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-17T19:04:00Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-17T20:00:00Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-17T20:02:11Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-17T21:42:43Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-17T21:49:43Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-17T22:34:18Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-17T22:36:37Z | DEBUG | orders-api | DB_RETRY | Database operation will be retried
+2026-09-17T22:40:24Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-17T22:53:43Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-17T23:14:32Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-17T23:22:15Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-17T23:38:50Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-18T03:07:40Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-18T03:26:19Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-18T03:39:28Z | DEBUG | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-18T04:02:15Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-18T04:22:59Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-18T04:47:49Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-18T05:20:48Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-18T05:45:21Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-18T06:05:15Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-18T07:07:21Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-18T08:20:22Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-18T08:26:23Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-18T08:29:11Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-18T08:52:02Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-18T09:16:40Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-18T10:04:11Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-18T10:09:49Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-18T10:31:16Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-18T11:58:06Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-18T13:16:49Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-18T13:18:13Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-18T13:23:11Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-18T13:57:43Z | DEBUG | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-18T14:02:56Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-18T14:03:25Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-18T14:14:30Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-18T15:27:32Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-18T15:33:41Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-18T17:00:42Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-18T18:07:06Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-18T18:42:26Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-18T19:44:39Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-18T20:25:22Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-18T23:16:28Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-18T23:39:09Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-18T23:59:06Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-19T01:09:19Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-19T01:20:55Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-19T01:44:28Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-19T02:10:29Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-19T03:37:49Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-19T04:39:28Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-19T05:12:06Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-19T06:34:55Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-19T07:03:59Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-19T09:25:13Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-19T09:27:31Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-19T09:48:04Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-19T09:58:27Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-19T10:26:43Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-19T10:30:27Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-19T10:48:13Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-19T10:52:21Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-19T11:17:30Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-19T11:57:13Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-19T11:57:25Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-19T12:08:57Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-19T12:26:03Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-19T13:56:05Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-19T16:46:07Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-19T18:07:32Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-19T18:49:43Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-19T20:16:09Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-19T20:34:40Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-19T20:42:30Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-19T20:49:06Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-19T21:23:48Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-19T21:59:38Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-19T22:41:06Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-19T22:54:01Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-19T23:08:58Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-20T00:15:58Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-20T02:18:46Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-20T02:33:51Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-20T02:42:30Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-20T02:46:58Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-20T03:21:04Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-20T03:47:49Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-20T05:32:40Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-20T06:10:41Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-20T06:37:25Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-20T06:47:27Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-20T07:25:56Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-20T07:45:21Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-20T08:05:16Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-20T08:17:54Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-20T08:30:42Z | DEBUG | gateway | HTTP_502 | Upstream service returned 502
+2026-09-20T08:42:42Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-20T09:04:09Z | DEBUG | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-20T10:07:22Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-20T11:30:20Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-20T11:52:59Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-20T13:38:44Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-20T16:12:43Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-20T16:44:11Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-20T17:03:59Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-20T17:36:23Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-20T18:12:04Z | WARN | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-20T18:54:01Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-20T18:55:01Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-20T18:59:46Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-20T19:58:58Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-20T20:06:29Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-20T20:12:13Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-20T20:57:18Z | DEBUG | orders-api | DB_RETRY | Database operation will be retried
+2026-09-20T21:32:05Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-20T21:39:21Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-21T00:14:04Z | DEBUG | gateway | HTTP_502 | Upstream service returned 502
+2026-09-21T00:56:32Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-21T01:46:00Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-21T01:53:25Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-21T01:58:07Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-21T02:15:12Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-21T04:27:50Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-21T04:49:05Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-07T14:00:00Z |  | gateway | HTTP_502 | empty level
+2026-09-21T05:25:39Z | DEBUG | orders-api | DB_RETRY | Database operation will be retried
+2026-09-21T05:28:39Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-21T05:42:09Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-21T06:12:40Z | DEBUG | gateway | HTTP_502 | Upstream service returned 502
+2026-09-21T07:19:20Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-21T08:01:10Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-21T08:47:44Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-21T09:27:07Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-21T09:38:44Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-21T11:04:24Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-21T11:43:38Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-21T11:47:06Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-21T12:22:24Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-21T13:03:09Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-21T13:12:51Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-21T13:30:09Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-21T14:15:59Z | WARN | gateway | HTTP_502 | Upstream service returned 502
+2026-09-21T14:39:46Z | DEBUG | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-21T14:56:58Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-21T15:39:55Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-21T16:08:39Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-21T16:59:20Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-21T17:02:44Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-21T17:29:17Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-21T17:49:52Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-21T18:43:18Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-21T19:13:50Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-21T19:28:47Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-21T19:37:34Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-21T20:00:09Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-21T21:07:09Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-21T21:54:57Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-21T22:24:31Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-21T23:15:14Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-21T23:54:33Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-22T00:26:47Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-22T01:34:35Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-22T02:17:49Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-22T04:22:36Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-22T06:27:22Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-22T06:35:46Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-22T07:11:53Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-22T07:16:43Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-22T07:29:49Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-22T07:53:37Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-22T08:46:59Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-22T11:43:16Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-22T11:50:49Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-22T12:34:25Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-22T15:01:41Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-22T15:03:50Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-22T16:35:14Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-22T17:09:40Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-22T17:20:57Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-22T18:39:54Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-22T18:56:14Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-22T19:05:32Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-22T19:58:42Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-22T20:06:16Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-22T20:06:43Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-22T20:18:57Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-22T21:25:05Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-22T21:26:11Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-22T21:42:25Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-22T22:36:41Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-22T22:52:58Z | DEBUG | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-22T23:07:39Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-22T23:57:43Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-23T00:23:57Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-23T00:35:36Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-23T00:48:28Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-23T01:33:54Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-23T01:37:43Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-23T01:58:50Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-23T02:09:49Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-23T02:34:55Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-23T02:35:32Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-23T04:39:14Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-23T05:41:20Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-23T05:55:29Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-23T06:04:17Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-23T06:48:12Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-23T07:32:32Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-23T08:29:36Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-23T08:38:48Z | DEBUG | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-23T10:15:35Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-23T11:21:45Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-23T11:59:10Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-23T12:23:35Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-23T12:31:36Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-23T12:34:01Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-23T12:45:54Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-23T12:48:44Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-23T13:04:03Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-23T13:13:16Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-23T13:15:50Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-23T14:49:10Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-23T15:06:53Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-23T16:38:49Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-23T16:56:36Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-23T17:05:03Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-23T17:59:59Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-23T18:52:45Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-23T19:00:36Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-23T19:16:55Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-23T22:59:31Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-24T00:38:21Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-24T00:50:16Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-24T01:41:21Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-24T02:53:32Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-24T03:08:41Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-24T03:15:53Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-24T05:22:58Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-24T05:39:35Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-24T06:03:32Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-24T06:30:17Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-24T07:52:35Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-24T09:51:27Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-24T10:00:32Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-24T10:16:31Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-24T10:18:59Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-24T10:25:36Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-24T11:37:44Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-24T12:52:41Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-24T14:10:44Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-24T14:18:09Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-24T14:29:43Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-24T16:13:43Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-24T16:42:21Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-24T17:02:01Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-24T18:11:19Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-24T18:53:29Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-24T19:30:26Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-24T19:34:19Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-24T20:43:35Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-24T21:08:28Z | DEBUG | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-24T21:21:16Z | INFO | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-24T21:42:49Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-24T21:58:47Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-08T14:00:00Z | ERROR | gateway | HTTP_502 | 
+2026-09-24T21:59:32Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-24T22:42:10Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-24T23:30:45Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-25T00:05:26Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-25T00:30:57Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-25T00:37:02Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-25T03:06:34Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-25T04:03:21Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-25T05:04:16Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-25T05:34:00Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-25T05:41:33Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-25T05:42:20Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-25T06:42:49Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-25T08:04:05Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-25T08:08:12Z | WARN | gateway | HTTP_502 | Upstream service returned 502
+2026-09-25T08:15:42Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-25T08:42:16Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-25T08:56:36Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-25T09:03:05Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-25T09:22:24Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-25T10:02:21Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-25T11:29:01Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-25T11:57:47Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-25T12:50:58Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-25T13:09:00Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-25T14:24:28Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-25T15:26:37Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-25T16:41:24Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-25T16:57:16Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-25T17:28:34Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-25T18:32:28Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-25T19:57:10Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-25T20:18:48Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-25T20:27:29Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-25T20:41:42Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-25T20:41:47Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-25T21:35:33Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-25T22:30:21Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-25T22:43:10Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-25T23:12:58Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-26T00:12:50Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-26T01:32:53Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-26T01:41:29Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-26T02:07:05Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-26T02:40:10Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-26T02:44:09Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-26T02:54:02Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-26T02:55:39Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-26T03:04:05Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-26T03:48:22Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-26T04:35:54Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-26T05:04:24Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-26T05:59:45Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-26T06:11:35Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-26T06:39:00Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-26T06:50:38Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-26T07:29:49Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-26T08:02:39Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-26T08:03:23Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-26T08:05:51Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-26T08:07:43Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-26T08:27:16Z | DEBUG | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-26T08:47:42Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-26T08:48:52Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-26T09:08:39Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-26T09:13:47Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-26T09:34:18Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-26T09:43:14Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-26T11:03:35Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-26T11:47:08Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-26T12:04:22Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-26T16:52:54Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-26T18:12:35Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-26T18:31:27Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-26T19:39:29Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-26T19:56:06Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-26T20:55:25Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-26T20:55:25Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-26T21:20:06Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-26T21:55:09Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-26T21:59:35Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-26T22:27:23Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-26T23:16:59Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-26T23:54:28Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-27T00:00:00Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-27T00:06:14Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-27T00:22:36Z | WARN | gateway | HTTP_502 | Upstream service returned 502
+2026-09-27T01:39:05Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-27T01:44:43Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-27T02:37:26Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-27T02:42:37Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-27T03:32:38Z | ERROR | orders-api | ORDER_CREATED | Order accepted
+2026-09-27T03:32:54Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-27T04:22:07Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-27T06:47:33Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-27T07:14:01Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-27T08:01:58Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-27T08:50:49Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-27T09:52:28Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-27T10:20:11Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-27T11:07:26Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-27T12:00:05Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-27T12:10:16Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-27T12:35:48Z | ERROR | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-27T13:57:53Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-27T14:20:58Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-27T14:50:48Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-27T14:55:50Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-27T15:03:05Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-27T16:06:10Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-27T16:33:33Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-27T16:43:12Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-27T17:22:00Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-27T17:26:21Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-27T17:30:03Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-27T18:10:36Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-27T18:51:59Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-27T19:01:42Z | WARN | gateway | HTTP_502 | Upstream service returned 502
+2026-09-27T19:29:08Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-27T20:55:46Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-27T22:06:52Z | WARN | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-27T23:05:22Z | WARN | gateway | HTTP_502 | Upstream service returned 502
+2026-09-27T23:09:34Z | INFO | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-27T23:21:35Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-27T23:35:40Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-28T00:06:01Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-28T02:35:48Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-28T02:44:51Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-28T03:17:09Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-28T05:00:32Z | INFO | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-28T05:36:16Z | DEBUG | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-28T06:06:36Z | WARN | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-28T06:21:01Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-28T07:21:50Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-28T10:12:17Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-28T11:26:59Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-28T12:30:27Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-28T12:52:01Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-28T13:04:51Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+
+2026-09-28T13:52:15Z | DEBUG | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-28T14:29:08Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-28T14:37:59Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-28T15:27:14Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-28T15:38:01Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-28T15:45:45Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-28T16:15:40Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-28T17:18:54Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-28T17:58:19Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-28T18:45:46Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-28T19:02:25Z | INFO | orders-api | ORDER_CREATED | Order accepted
+2026-09-28T20:28:18Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-28T21:33:04Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-28T21:54:03Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-28T22:24:05Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-28T22:30:21Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-28T22:51:50Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-28T23:59:34Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-29T00:06:53Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-29T00:09:33Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T00:40:17Z | WARN | orders-api | ORDER_CREATED | Order accepted
+2026-09-29T00:41:15Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-29T00:53:18Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-29T02:12:21Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-29T02:13:38Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T02:25:34Z | WARN | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-29T02:26:58Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-29T02:38:47Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T02:57:53Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-29T03:30:34Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-29T03:48:58Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-29T04:30:04Z | DEBUG | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-29T05:43:42Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-29T05:58:17Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-29T06:10:22Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-29T06:35:32Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T08:14:06Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-29T08:24:34Z | WARN | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-29T08:52:27Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-29T10:32:13Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T11:09:58Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-29T12:19:14Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-29T12:24:30Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T14:10:34Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-29T15:22:10Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-29T16:20:12Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T17:04:38Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-29T17:20:16Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-29T17:24:04Z | DEBUG | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-29T18:57:03Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-29T19:12:57Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T20:00:09Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-29T20:21:45Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T20:40:20Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T20:54:09Z | DEBUG | orders-api | ORDER_CREATED | Order accepted
+2026-09-29T20:55:01Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-29T21:22:01Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-29T22:01:35Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-29T22:55:12Z | ERROR | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-29T23:04:36Z | ERROR | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-29T23:35:53Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-30T00:09:56Z | INFO | auth-api | AUTH_LOGIN_OK | User session created
+2026-09-30T00:46:28Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-30T00:47:34Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-30T00:55:36Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-30T01:58:38Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-30T03:10:34Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-30T03:39:24Z | INFO | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-30T04:07:49Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-30T04:13:24Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-30T04:14:20Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-30T04:59:14Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-30T05:36:39Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-30T05:48:46Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-30T06:12:07Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-30T07:07:48Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-30T08:59:09Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-30T10:31:27Z | ERROR | orders-api | DB_RETRY | Database operation will be retried
+2026-09-30T10:37:23Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-30T11:04:58Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-30T11:48:22Z | ERROR | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-30T12:03:38Z | DEBUG | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-30T13:27:52Z | INFO | inventory-api | DB_RETRY | Database operation will be retried
+2026-09-30T13:56:29Z | WARN | inventory-api | STOCK_LOW | Available stock below threshold
+2026-09-30T16:09:12Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-30T16:13:02Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-30T16:35:42Z | ERROR | gateway | HTTP_502 | Upstream service returned 502
+2026-09-30T16:43:32Z | ERROR | orders-api | ORDER_REJECTED | Order validation failed
+2026-09-30T17:16:49Z | INFO | gateway | HTTP_502 | Upstream service returned 502
+2026-09-30T17:47:05Z | INFO | auth-api | AUTH_TOKEN_EXPIRED | Access token expired
+2026-09-30T19:39:41Z | WARN | orders-api | DB_RETRY | Database operation will be retried
+2026-09-30T20:49:36Z | ERROR | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-30T21:00:35Z | ERROR | payment-worker | PAYMENT_DECLINED | Payment was declined
+2026-09-30T21:31:17Z | DEBUG | payment-worker | PAYMENT_TIMEOUT | Payment provider timed out
+2026-09-30T22:41:59Z | INFO | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-30T22:55:03Z | INFO | orders-api | DB_RETRY | Database operation will be retried
+2026-09-30T23:08:17Z | DEBUG | inventory-api | STOCK_RESERVED | Stock reserved
+2026-09-30T23:38:15Z | ERROR | inventory-api | STOCK_RESERVED | Stock reserved
